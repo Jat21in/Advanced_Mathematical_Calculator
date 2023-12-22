@@ -42,7 +42,7 @@ Hi! I'm Jatin Mittal and this is my advanced Java-based mathematical calculator 
     This calculator provides a comprehensive set of mathematical tools, making it a valuable resource for a wide range of mathematical calculations and problem-solving in various fields.
 
 
-You can download my Health Care Portal Management System Project from the following link:
+You can download myAdvanced Mathematical Calculator Project from the following link:
 https://github.com/Jat21in/Advanced_Mathematical_Calculator/tree/main
 
 Thank you for watching my Advanced_Mathematical_Calculator in Java :-)
